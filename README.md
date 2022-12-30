@@ -1,0 +1,1 @@
+This reposity have STM32IDE, schematic Proteus and FSM, schematic in Image
